@@ -1,0 +1,7 @@
+n=int(input(&#39;enter value:&#39;))
+if n&gt;0:
+print(&#39;positive&#39;)
+elif n&lt;0:
+print(&#39;negative&#39;)
+else:
+print(&#39;zero&#39;)
