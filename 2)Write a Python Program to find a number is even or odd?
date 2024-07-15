@@ -1,0 +1,5 @@
+n=int(input())
+if n%2==0:
+print(&#39;even&#39;)
+else:
+print(&#39;odd&#39;)
